@@ -1,4 +1,4 @@
-![logo](https://github.com/LegendGod01/LegendGod01/blob/main/github%20banner.png.png)
+![logo](https://github.com/LegendGod01/LegendGod01/blob/main/ezgif.com-resize%20(1).gif)
 <h1 align="center">Hi 👋, I'm Legend God</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
