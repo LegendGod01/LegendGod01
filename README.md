@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legendgod01&label=Profile%20views&color=0e75b6&style=flat" alt="legendgod01" /> </p>
 
-- 🔭 I’m currently working on [BPO](https://jepc.jharkhand.gov.in/program/brc/crc)
+- 🔭 I’m currently working on [ACCOUNTANT](https://fci.gov.in/)
 - 🔭 previously i was worked with [Accountant](https://fci.gov.in/)
 
 - 📄 Know about my experiences [https://shorturl.at/novCX](https://shorturl.at/novCX)
