@@ -25,6 +25,16 @@
 - 💡 Interested in development, automation and problem solving
 - 🚀 Building useful tools and projects
 - 💼 Portfolio: https://bio.site/Amit_mishra
+### 🛠️ Tech Stack & Tools
+
+
+<p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/WebSockets-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="websockets" height="40"/> </a>
+  <a href="https://elementor.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Elementor-FF9800?style=for-the-badge&logo=elementor&logoColor=white" alt="elementor" height="40"/> </a>
+</p>
+
+- 
 
 🌐 Connect With Me
 
