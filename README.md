@@ -17,16 +17,14 @@
 > **Telegram:** [@DeviLs_God1](https://t.me/DeviLs_God1) <br>
 > **Status:** Learning • Building • Exploring
 
-
-🚀 About Me
+### 🚀 About Me
 
 - 🔭 Working on personal and open-source projects
-- 🌱 Learning new technologies every day
-- 💡 Interested in development, automation and problem solving
-- 🚀 Building useful tools and projects
-- 💼 Portfolio: https://bio.site/Amit_mishra
-### 🛠️ Tech Stack & Tools
+- 🌱 Currently exploring advanced AI tools and refining my backend architecture skills
+- 💡 Passionate about backend development, real-time communication (WebSockets), and automating workflows
+- 🚀 Building useful tools and scaling applications
 
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -34,9 +32,7 @@
   <a href="https://elementor.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Elementor-FF9800?style=for-the-badge&logo=elementor&logoColor=white" alt="elementor" height="40"/> </a>
 </p>
 
-- 
-
-🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="left">
   <a href="https://bio.site/Amit_mishra">
@@ -46,7 +42,7 @@
   </a>
 </p>
 
-🚀 Open Source Achievements & Popularity
+### 🚀 Open Source Achievements & Popularity
 
 <p align="center">
   <img src="https://img.shields.io/badge/🏆_GitHub_Stars-5.2k+-yellow?style=for-the-badge" />
@@ -55,7 +51,7 @@
   <img src="https://img.shields.io/badge/💎_Pro_Developer-Level_99-8A2BE2?style=for-the-badge" />
 </p>
 
-📊 GitHub Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LegendGod01&show_icons=true&theme=tokyonight" />
@@ -69,17 +65,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LegendGod01&theme=tokyonight" />
 </p>
 
-🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <!-- Updated parameters to force rendering and match your Tokyo Night theme -->
-  <img src="https://github-profile-trophy.vercel.app/?username=LegendGod01&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LegendGod01&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&row=1&column=7&v=1" alt="GitHub Trophies" />
 </p>
 
-📈 Activity Graph
+### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LegendGod01&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LegendGod01&theme=tokyonight" />
 </p>
 
 # 📡 Establish Connection...
@@ -92,7 +87,6 @@ $ ssh amit@dev-server
 >
 > ⚡ Code • Learn • Build • Repeat ⚡
 > _Connection closed._
-
 
 ---
 
