@@ -3,31 +3,31 @@
 </p>
 
 ### 👤 Profile
-<table>
-  <tr>
-    <td width="50%">
-      <h1 align="left">Hi 👋, I'm Amit Kumar Mishra</h1>
-      <p align="left">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=26A5E4&width=435&lines=Backend+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
-        </a>
-      </p>
-      <b></b><br>
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <h1 align="left">Hi 👋, I'm Amit Kumar Mishra</h1>
+    <p align="left">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=26A5E4&width=435&lines=Backend+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+      </a>
+    </p>
+    <p>
       <b>Name:</b> Amit Kumar Mishra<br>
       <b>Location:</b> India<br>
       <b>Role:</b> Developer<br>
-      <b>Status:</b> Learning • Building • Exploring<br><br>
-      <a href="https://bio.site/Amit_mishra">
-        <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github.com/RishiKumarRay/RishiKumarRay/blob/main/0_7Q3yvSIv_t0ioJ-Z.gif?raw=true" width="300px" />
-    </td>
-  </tr>
-</table>
+      <b>Status:</b> Learning • Building • Exploring
+    </p>
+    <a href="https://bio.site/Amit_mishra">
+      <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
+    </a>
+  </div>
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <img src="https://github.com/RishiKumarRay/RishiKumarRay/blob/main/0_7Q3yvSIv_t0ioJ-Z.gif?raw=true" width="300px" style="max-width: 100%;" />
+  </div>
+</div>
 
 <p align="center">
+  <br>
   <img src="https://komarev.com/ghpvc/?username=LegendGod01&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
