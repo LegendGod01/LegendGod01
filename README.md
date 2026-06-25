@@ -80,11 +80,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LegendGod01&theme=github-dark" />
 </p>
 
-📡 Contact
+# 📡 Establish Connection...
+$ ssh amit@dev-server
+> Connection established. 
+> 
+> [Telegram]  @DeviLs_God1
+> [Portfolio] bio.site/Amit_mishra
+> [GitHub]    github.com/LegendGod01
+>
+> ⚡ Code • Learn • Build • Repeat ⚡
+> _Connection closed._
 
-Telegram  : @DeviLs_God1
-Portfolio : bio.site/Amit_mishra
-GitHub    : github.com/LegendGod01
 
 ---
 
