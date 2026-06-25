@@ -11,15 +11,12 @@
   <img src="https://komarev.com/ghpvc/?username=LegendGod01&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
-```bash
-$ whoami
 
 Name      : Amit Kumar Mishra
 Location  : India
 Role      : Developer
 Telegram  : @DeviLs_God1
 Status    : Learning • Building • Exploring
-
 
 🚀 About Me
 
