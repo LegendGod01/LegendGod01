@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [ACCOUNTANT](https://fci.gov.in/)
 - 🔭 previously i was worked with [Accountant](https://fci.gov.in/)
 
-- 📄 Know about my experiences [https://shorturl.at/novCX](https://shorturl.at/novCX)
+- 📄 Know about my experiences [[https://shorturl.at/novCX]([ht](https://bio.site/Amit_mishra))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
