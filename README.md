@@ -2,48 +2,33 @@
   <img src="https://raw.githubusercontent.com/LegendGod01/LegendGod01/main/ezgif.com-resize%20(1).gif" width="100%">
 </p><h1 align="center">Hi 👋, I'm Amit Kumar Mishra</h1><h3 align="center">
 💻 Developer • Tech Enthusiast • Problem Solver
-</h3><img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"><p align="left">
-  <img src="https://komarev.com/ghpvc/?username=LegendGod01&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="LegendGod01" />
+</h3><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LegendGod01&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>$ whoami
 
 Name      : Amit Kumar Mishra
 Location  : India
 Role      : Developer
+Telegram  : @DeviLs_God1
 Status    : Learning • Building • Exploring
 
 🚀 About Me
 
-- 🔭 Currently working on personal and open-source projects
-- 🌱 Continuously learning new technologies
-- 💡 Passionate about development, automation & problem solving
-- 🚀 Always exploring innovative solutions
+- 🔭 Working on personal and open-source projects
+- 🌱 Learning new technologies every day
+- 💡 Interested in development, automation and problem solving
+- 🚀 Building useful tools and projects
 - 💼 Portfolio: https://bio.site/Amit_mishra
 
 🌐 Connect With Me
 
-<p align="left"><a href="https://bio.site/Amit_mishra">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
-</a><a href="https://t.me/DeviLs_God1">
-<img src="https://img.shields.io/badge/Telegram-@DeviLs_God1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a></p>📡 Contact
-
-Telegram  : @DeviLs_God1
-Portfolio : bio.site/Amit_mishra
-GitHub    : github.com/LegendGod01
-
-🛠️ Languages & Tools
-
-<p align="left"><a href="https://www.php.net">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-</a><a href="https://www.erlang.org/">
-<img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" width="40" height="40"/>
-</a><a href="https://www.wxwidgets.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" width="40" height="40"/>
-</a><a href="https://git-scm.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-</a><a href="https://github.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-</a></p>📊 GitHub Statistics
+<p align="left">
+  <a href="https://bio.site/Amit_mishra">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
+  </a>  <a href="https://t.me/DeviLs_God1">
+    <img src="https://img.shields.io/badge/Telegram-@DeviLs_God1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LegendGod01&show_icons=true&theme=tokyonight" />
@@ -51,7 +36,21 @@ GitHub    : github.com/LegendGod01
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegendGod01&layout=compact&theme=tokyonight" />
 </p><p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LegendGod01&theme=tokyonight" />
-</p>---
+</p>🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LegendGod01&theme=matrix&no-frame=true&margin-w=15" />
+</p>📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LegendGod01&theme=github-dark" />
+</p>📡 Contact
+
+Telegram  : @DeviLs_God1
+Portfolio : bio.site/Amit_mishra
+GitHub    : github.com/LegendGod01
+
+---
 
 <p align="center">
 ⚡ <b>Code • Learn • Build • Repeat</b> ⚡
