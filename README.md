@@ -66,11 +66,11 @@
 </p>
 
 ### 🏆 GitHub Trophies
-
+<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LegendGod01&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&row=1&column=7&v=1" alt="GitHub Trophies" />
 </p>
-
+-->
 ### 📈 Activity Graph
 
 <p align="center">
