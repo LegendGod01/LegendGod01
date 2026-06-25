@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LegendGod01/LegendGod01/main/ezgif.com-resize%20(1).gif" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=26A5E4&center=true&vCenter=true&width=800&height=100&lines=LEGEND_GOD_INTERFACE;NODE.JS_ENGINE_ONLINE;EXECUTING_CODE_OPTIMIZATION" alt="Tech Banner" />
 </p>
 
 ### 👤 Profile
