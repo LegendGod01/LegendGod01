@@ -9,10 +9,13 @@
     <p align="left">
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=26A5E4&width=435&lines=Backend+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
-      </a>
+     </a>
     </p>
+    <div style="flex: 1; min-width: 250px; text-align: center;">
+    <img src="https://github.com/RishiKumarRay/RishiKumarRay/blob/main/0_7Q3yvSIv_t0ioJ-Z.gif?raw=true" width="300px" style="max-width: 100%;" />
+  </div>
     <p>
-      <b>Name:</b> Amit Kumar Mishra<br>
+     <b>Name:</b> Amit Kumar Mishra<br>
       <b>Location:</b> India<br>
       <b>Role:</b> Developer<br>
       <b>Status:</b> Learning • Building • Exploring
@@ -20,10 +23,6 @@
     <a href="https://bio.site/Amit_mishra">
       <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
     </a>
-  </div>
-  <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img src="https://github.com/RishiKumarRay/RishiKumarRay/blob/main/0_7Q3yvSIv_t0ioJ-Z.gif?raw=true" width="300px" style="max-width: 100%;" />
-  </div>
 </div>
 
 <p align="center">
