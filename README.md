@@ -67,26 +67,43 @@
   <img src="https://img.shields.io/badge/💎_Pro_Developer-Level_99-8A2BE2?style=for-the-badge" />
 </p>
 
-### 📊 GitHub Statistics
+### 📊 GitHub Statistics & System Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LegendGod01&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LegendGod01&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegendGod01&layout=compact&theme=tokyonight" />
+  <table align="center">
+    <tr>
+      <td align="center" width="200"><b>Primary Language</b></td>
+      <td align="center" width="200">Node.js</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Focus</b></td>
+      <td align="center">WebSockets & Backend</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Environment</b></td>
+      <td align="center">Linux / SSH</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Build State</b></td>
+      <td align="center">⚡ Active</td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LegendGod01&theme=tokyonight" />
 </p>
-
-<!-- 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LegendGod01&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
-</p>
--->
 
 ### 📈 Activity Graph
 
