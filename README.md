@@ -14,21 +14,22 @@
     <div style="flex: 1; min-width: 250px; text-align: center;">
       <img src="https://github.com/RishiKumarRay/RishiKumarRay/blob/main/0_7Q3yvSIv_t0ioJ-Z.gif?raw=true" width="300px" style="max-width: 100%;" />
     </div>
-    <p>
-      <b>Name:</b> Amit Kumar Mishra<br>
-      <b>Location:</b> India<br>
-      <b>Role:</b> Developer<br>
-      <b>Status:</b> Learning • Building • Exploring
-    </p>
-    <div style="display: flex; align-items: center; gap: 15px;">
-      <a href="https://bio.site/Amit_mishra">
-        <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
-      </a>
-      <img src="https://komarev.com/ghpvc/?username=LegendGod01&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-    </div>
-    
+    <div style="background-color: #1a1a2e; padding: 20px; border-radius: 10px; border-left: 5px solid #26A5E4; margin-bottom: 20px;">
+  <p style="margin: 0 0 10px 0; font-size: 16px;">
+    <b>👤 Name:</b> Amit Kumar Mishra<br>
+    <b>📍 Location:</b> India<br>
+    <b>💻 Role:</b> Backend Developer<br>
+    <b>⚡ Status:</b> Learning • Building • Exploring
+  </p>
+
+  <div style="display: flex; align-items: center; gap: 15px; margin-top: 15px;">
+    <a href="https://bio.site/Amit_mishra">
+      <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=LegendGod01&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   </div>
 </div>
+
 
 ### 🚀 About Me
 
