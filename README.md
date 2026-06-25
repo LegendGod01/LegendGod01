@@ -22,18 +22,22 @@
 
 ### 🚀 About Me
 
-- 🔭 Working on personal and open-source projects
-- 🌱 Currently exploring advanced AI tools and refining my backend architecture skills
-- 💡 Passionate about backend development, real-time communication (WebSockets), and automating workflows
-- 🚀 Building useful tools and scaling applications
+- 🔭 **Currently Building:** Automated workflows and real-time backend architecture
+- ⚡ **Niche Interests:** WebSockets for live data, cryptocurrency market APIs, and integrating AI image models
+- 🌱 **Learning:** Advanced AI tools and scaling applications
+- 💡 **Passionate About:** Backend development, real-time communication, and automating workflows
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/WebSockets-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="websockets" height="40"/> </a>
-  <a href="https://elementor.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Elementor-FF9800?style=for-the-badge&logo=elementor&logoColor=white" alt="elementor" height="40"/> </a>
-</p>
+<details>
+  <summary><b>⚡ Click to expand my full tech stack</b></summary>
+  <br>
+  <p align="left">
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/WebSockets-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="websockets" height="40"/> </a>
+    <a href="https://elementor.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Elementor-FF9800?style=for-the-badge&logo=elementor&logoColor=white" alt="elementor" height="40"/> </a>
+  </p>
+</details>
 
 ### 🌐 Connect With Me
 
@@ -79,7 +83,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LegendGod01&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LegendGod01&theme=tokyonight" />
 </p>
 
 # 📡 Establish Connection...
