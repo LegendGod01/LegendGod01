@@ -3,9 +3,12 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Amit Kumar Mishra</h1>
-<h3 align="center">
-💻 Developer • Tech Enthusiast • Problem Solver
-</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=26A5E4&center=true&vCenter=true&width=435&lines=Backend+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LegendGod01&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
@@ -65,16 +68,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LegendGod01&theme=tokyonight" />
 </p>
 
+<!-- 
 ### 🏆 GitHub Trophies
-<!--
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LegendGod01&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&row=1&column=7&v=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LegendGod01&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
 </p>
 -->
+
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LegendGod01&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LegendGod01&theme=tokyonight" />
 </p>
 
 # 📡 Establish Connection...
