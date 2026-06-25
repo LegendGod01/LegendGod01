@@ -11,19 +11,11 @@
   <img src="https://komarev.com/ghpvc/?username=LegendGod01&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
-{
-  "name": "Amit Kumar Mishra",
-  "location": "India",
-  "role": "Developer",
-  "contact": {
-    "telegram": "@DeviLs_God1"
-  },
-  "current_status": [
-    "Learning", 
-    "Building", 
-    "Exploring"
-  ]
-}
+> **Name:** Amit Kumar Mishra <br>
+> **Location:** India <br>
+> **Role:** Developer <br>
+> **Telegram:** [@DeviLs_God1](https://t.me/DeviLs_God1) <br>
+> **Status:** Learning • Building • Exploring
 
 
 🚀 About Me
