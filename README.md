@@ -2,23 +2,34 @@
   <img src="https://raw.githubusercontent.com/LegendGod01/LegendGod01/main/ezgif.com-resize%20(1).gif" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Amit Kumar Mishra</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=26A5E4&center=true&vCenter=true&width=435&lines=Backend+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
+### 👤 Profile
+<table>
+  <tr>
+    <td width="50%">
+      <h1 align="left">Hi 👋, I'm Amit Kumar Mishra</h1>
+      <p align="left">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=26A5E4&width=435&lines=Backend+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+        </a>
+      </p>
+      <b>$ whoami</b><br>
+      <b>Name:</b> Amit Kumar Mishra<br>
+      <b>Location:</b> India<br>
+      <b>Role:</b> Developer<br>
+      <b>Status:</b> Learning • Building • Exploring<br><br>
+      <a href="https://bio.site/Amit_mishra">
+        <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/RishiKumarRay/RishiKumarRay/blob/main/0_7Q3yvSIv_t0ioJ-Z.gif?raw=true" width="300px" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LegendGod01&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
-
-> **Name:** Amit Kumar Mishra <br>
-> **Location:** India <br>
-> **Role:** Developer <br>
-> **Telegram:** [@DeviLs_God1](https://t.me/DeviLs_God1) <br>
-> **Status:** Learning • Building • Exploring
 
 ### 🚀 About Me
 
@@ -42,9 +53,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://bio.site/Amit_mishra">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
-  </a>  <a href="https://t.me/DeviLs_God1">
+  <a href="https://t.me/DeviLs_God1">
     <img src="https://img.shields.io/badge/Telegram-@DeviLs_God1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
@@ -74,7 +83,6 @@
 
 <!-- 
 ### 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LegendGod01&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
 </p>
@@ -83,7 +91,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LegendGod01&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LegendGod01&theme=github-dark" />
 </p>
 
 # 📡 Establish Connection...
