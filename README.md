@@ -74,7 +74,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LegendGod01&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LegendGod01&theme=github-dark" />
 </p>
 
 # 📡 Establish Connection...
