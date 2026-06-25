@@ -12,7 +12,7 @@
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=26A5E4&width=435&lines=Backend+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
         </a>
       </p>
-      <b>$ whoami</b><br>
+      <b></b><br>
       <b>Name:</b> Amit Kumar Mishra<br>
       <b>Location:</b> India<br>
       <b>Role:</b> Developer<br>
